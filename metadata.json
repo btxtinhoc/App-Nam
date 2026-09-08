@@ -1,0 +1,7 @@
+{
+  "name": "CodeLab Offline",
+  "description": "Phần mềm học và thực hành lập trình Offline cho phòng máy trường học không có Internet (HTML, CSS, Python, C++)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
